@@ -1,3 +1,4 @@
+![Thumbnail for the Project](How_to_Write_Mediocre_Lab _Code.png)
 # How To Write Mediorcre Lab Code
 
 Welcome to the this series of articles! I'll be working on this project continuiously and the goal here is in line with that of other introductory coding projects such as [Automate the Boring Stuff](https://automatetheboringstuff.com/), to address one fundamental problem: we're all busy in lab. 
