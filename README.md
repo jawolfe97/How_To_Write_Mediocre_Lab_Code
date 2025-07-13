@@ -1,5 +1,5 @@
 # How To Write Mediorcre Lab Code
-![Thumbnail for the Project](How_To_Write_Mediorcre_Lab_Code/How_to_Write_Mediocre_Lab _Code.png)
+![Thumbnail for the Project](How_to_Write_Mediocre_Lab _Code.png)
 
 Welcome to the this series of articles! I'll be working on this project continuiously and the goal here is in line with that of other introductory coding projects such as [Automate the Boring Stuff](https://automatetheboringstuff.com/), to address one fundamental problem: we're all busy in lab. 
 
