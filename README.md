@@ -14,11 +14,11 @@ In this onging project, I want to give you some introductory tools from those cl
 ## Coding List
 We will cover examples of logistical improvements in lab using the following "Coding Languages," when applicable: 
 * Avoiding Coding Altogether
-        - Phyiscal Systems
-        - Standard Operating Procedures
-        - Lab Organization
+    - Phyiscal Systems
+    - Standard Operating Procedures
+    - Lab Organization
 * Google Sheets
-      - [Only Available Online](https://workspace.google.com/products/sheets/)
+    - [Only Available Online](https://workspace.google.com/products/sheets/)
 * RStudio
     - [Web Browser](https://posit.cloud/)
     - [Download](https://rstudio-education.github.io/hopr/starting.html#rstudio)
