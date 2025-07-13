@@ -26,8 +26,8 @@ We will cover examples of logistical improvements in lab using the following "Co
     - [Web Browser](https://www.programiz.com/python-programming/online-compiler/)
     - [Download](https://www.python.org/downloads/)
 * C++ (I'll be learning with you!)
-    -[Web Browser](https://www.onlinegdb.com/online_c++_compiler)
-    -[Download](https://isocpp.org/get-started)
+    - [Web Browser](https://www.onlinegdb.com/online_c++_compiler)
+    - [Download](https://isocpp.org/get-started)
 * Generall Command Line
     - Windows
     - Unix
