@@ -6,7 +6,6 @@
 - [What is code?](#what-is-code)
 - [Hello World](#hello-world)
 - [Data Types](#data-types)
-- [Objects](#objects)
 - [Functions](#write-code)
 - [Data Structures](#data-structures)
 - [Libraries](#libraries)
@@ -60,13 +59,39 @@ As you can see, there's always more than just typing in the phrase "Hello, World
 
 ## Data Types
 
-[Back to TOC](#topics)
+I didn't tell you this, but the languages here operate on "Objects." An object can be anything, a date, a number, a word, etc. Because programming languages need to be versatile, we need to be specific about what our objects are. The answer from a computer to "Fish" + "Fish" isn't automatically "Two Fish." Computers don't understand context, they only understand very specific directions written in the correct language. As such 1 + 1 = 2 if we abstract away the unit "Fish" and define each fish as a number. 
 
-## Objects
+This is intuitive, but it differs a little betwen our 4 languages. Here is the table:
+## 🧮 Data Type Comparison: Google Sheets, R, Python, and C++
+
+| Data Type           | Google Sheets        | R (RStudio)           | Python                    | C++                        | Shared?       |
+|---------------------|----------------------|------------------------|----------------------------|-----------------------------|---------------|
+| **Integer**         | `Number` (no decimal) | `integer` (`int`)     | `int`                     | `int`                       | ✅ Yes        |
+| **Float / Decimal** | `Number` (decimal)    | `numeric` (default)    | `float`, `double`         | `float`, `double`           | ✅ Yes        |
+| **String / Text**   | `Text`                | `character`            | `str`                     | `std::string`, `char[]`     | ✅ Yes        |
+| **Boolean**         | `TRUE` / `FALSE`      | `logical`              | `bool` (`True`, `False`)  | `bool` (`true`, `false`)    | ✅ Yes        |
+| **Date / Time**     | `Date`, `DateTime`    | `Date`, `POSIXct`      | `datetime.datetime`       | `std::chrono` or libraries  | ✅ Yes        |
+| **List / Array**    | `Array` (via ranges)  | `vector`, `list`       | `list`, `tuple`           | `array`, `vector`           | ✅ Yes        |
+| **Null / Missing**  | `""`, `#N/A`          | `NA`, `NULL`           | `None`, `nan`             | `nullptr`, `NULL`           | ⚠️ Partially |
+| **Object / Struct** | ❌ Not supported       | `list`, `data.frame`   | `class`, `dict`           | `struct`, `class`           | ❌ No         |
+| **Dictionary / Map**| ❌ Not supported       | `named list`, `env`    | `dict`                    | `map`, `unordered_map`      | ⚠️ Partially |
+
+---
+
+### 🔍 Notes
+
+- **Google Sheets** uses cell formatting to infer types — no strict declarations.
+- **R** treats all numbers as `numeric` by default; use `as.integer()` for integers.
+- **Python** is dynamically typed, with implicit conversions and rich built-ins.
+- **C++** is statically typed — all types must be declared.
+
+That was scary, but stay with me. Most of those are a little confusing. For the rest of this, well only be talking about R and Python because there's overlap there. 
 
 [Back to TOC](#topics)
 
 ## Functions
+Functions perform actions on objects. It's intuitive from math class. Here is a non-exhaustive list of functions that you can string together in both languages.
+
 
 [Back to TOC](#topics)
 
