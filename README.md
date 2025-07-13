@@ -1,4 +1,4 @@
-# How_To_Write_Mediorcre_Lab_Code
+# How To Write Mediorcre Lab Code
 Primarily a series of readme articles describing important considerations ranging from scope, usability, automation, and user interface. Organized by typical lab task, written in as many coding languages as I can manage.
 
 Welcome to the this series of articles! I'll be working on this project continuiously and the goal here is in line with that of other introductory coding projects such as Automate the Boring Stuff, to address one fundamental problem: we're all busy in lab. Data management, inventory, data analysis, numerical simulaiton, API query, arithmatic calculation, experimental design, note taking, and many many more tasks. In the average biochemistry lab, there are a million things to do and the tasks are both varied and repetitive. Often expensive lab automation allows for the generation of many datasets in a day and simple tasks like opening and closing files transforms into a tedious hours long endeavor.
