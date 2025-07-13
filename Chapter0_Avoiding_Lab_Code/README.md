@@ -11,7 +11,7 @@
 
 ## Lab Coding as An Extension of Good Record Keeping
 
-## How to write good SOPs and Experimental Protocols
+## How to Write Good SOPs and Experimental Protocols
 
 ## 5 Times to Avoid Laboratory Code
 
