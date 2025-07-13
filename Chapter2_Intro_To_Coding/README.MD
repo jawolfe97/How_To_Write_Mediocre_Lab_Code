@@ -85,7 +85,55 @@ This is intuitive, but it differs a little betwen our 4 languages. Here is the t
 - **Python** is dynamically typed, with implicit conversions and rich built-ins.
 - **C++** is statically typed — all types must be declared.
 
-That was scary, but stay with me. Most of those are a little confusing. For the rest of this, well only be talking about R and Python because there's overlap there. 
+That was scary, but stay with me. Most of those are a little confusing. Lets give a practical definition of each:
+Integer -  A whole number
+Float/Decimal - A number, like a normal decimal number from math class. You can define 3 as 3 or 3.0 and perform numeric calculations. Be careful though, if you don't specify which one then the programming language will choose a default. This can mess up code and is a common source of error.
+String/Text -  So it explains itself. It's words, and single letters. But keep in mind that we can have a string "3" 3 the integer, 3.0 the float, and "3" the string could be confused if not well-defined by the computer and prevent the computer from running your instructions. 
+Date/Time -  You know, don't worry about it.
+Null - Okay, so what if there was no number in the object you defined? Is that 0? No, so we need a place holder for an "empty" object.
+Boolean - The result of a logical operation. Why was 6 afraid of 7? Because 7<8<9. We can use code evaluate the mathematical validity of that joke. If 7 < 8 and 8 < 9 then the statement should return the value TRUE. If the joke isn't funny, then the logical operation would return FALSE. There are many logical operators we could test:
+
+## 🔁 Boolean Logic Operators in Google Sheets, R, Python, and C++
+
+| Operation            | Google Sheets       | R / RStudio                    | Python              | C++                    | Shared?       |
+|----------------------|---------------------|--------------------------------|---------------------|------------------------|---------------|
+| **AND**              | `AND(x, y)`         | `x & y` (vector), `x && y` (scalar) | `x and y`          | `x && y`               | ✅ Yes        |
+| **OR**               | `OR(x, y)`          | `x | y`, `x || y`              | `x or y`            | `x || y`               | ✅ Yes        |
+| **NOT**              | `NOT(x)`            | `!x`                           | `not x`             | `!x`                   | ✅ Yes        |
+| **XOR**              | `XOR(x, y)`         | `xor(x, y)`                    | `x != y` or `x ^ y` (bitwise) | `x ^ y` (bitwise)     | ⚠️ Partial    |
+| **Equal (`==`)**     | `x = y` or `x = x`  | `x == y`                       | `x == y`            | `x == y`               | ✅ Yes        |
+| **Not Equal**        | `x <> y`            | `x != y`                       | `x != y`            | `x != y`               | ✅ Yes        |
+| **Greater Than**     | `x > y`             | `x > y`                        | `x > y`             | `x > y`                | ✅ Yes        |
+| **Less Than**        | `x < y`             | `x < y`                        | `x < y`             | `x < y`                | ✅ Yes        |
+| **Greater or Equal** | `x >= y`            | `x >= y`                       | `x >= y`            | `x >= y`               | ✅ Yes        |
+| **Less or Equal**    | `x <= y`            | `x <= y`                       | `x <= y`            | `x <= y`               | ✅ Yes        |
+
+---
+
+### 🧠 Notes
+
+- **Google Sheets** uses logic **functions** like `AND()`, `OR()`, and `XOR()`, not infix operators. It uses `<>` for "not equal".
+- **R** distinguishes between **element-wise** (`&`, `|`) and **scalar** (`&&`, `||`) logical operators.
+- **Python** uses **keywords** (`and`, `or`, `not`) and bitwise XOR (`^`) for booleans.
+- **C++** uses standard logical symbols (`&&`, `||`, `!`) and supports bitwise XOR (`^`) for `bool` and numeric types.
+
+Below is an example of some R Code that incorporates Boolean Logic to the logic behind that joke:
+
+RStudio
+```R
+#Define Objects as Integers
+a = 7
+b = 8
+c = 9
+#Test Joke Logic
+if(a < b & b < c){
+print("That was a funny joke")
+}
+```
+
+For the rest of this, well only be talking about R and Python because there's overlap there. 
+
+
 
 [Back to TOC](#topics)
 
