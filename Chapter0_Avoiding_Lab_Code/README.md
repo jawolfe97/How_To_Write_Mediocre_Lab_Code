@@ -8,3 +8,28 @@
 - [5 Times to Avoid Laboratory Code](#5-times-to-avoid-laboratory-code)
 - [Lab Coding Failed: The Time We Switched Back to a Whiteboard](#lab-coding-failed-the-time-we-switched-back-to-a-whiteboard)
 - [Conclusions: TLDR](#conclusions-tldr)
+
+
+## Why Code Anything in Lab?
+
+[Back to TOC](###-Topics)
+
+## Lab Coding as An Extension of Good Record Keeping
+
+[Back to TOC](###-Topics)
+
+## How to Write Good SOPs and Experimental Protocols?
+
+[Back to TOC](###-Topics)
+
+## 5 Times to Avoid Laboratory Code
+
+[Back to TOC](###-Topics)
+
+## Lab Coding Failed: The Time We Switched Back to a Whiteboard
+
+[Back to TOC](###-Topics)
+
+## Conclusions: TLDR
+
+[Back to TOC](###-Topics)
