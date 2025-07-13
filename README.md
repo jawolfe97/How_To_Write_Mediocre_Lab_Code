@@ -39,6 +39,16 @@ The above links are to online ways of running and editing code through your inte
 This will likely change as time goes on and as I get feedback, but here is how I plan to organize the articles and I'll log the progress down below. 
 ![Thumbnail for the Project](https://github.com/jawolfe97/How_To_Write_Mediorcre_Lab_Code/blob/main/Intro_HowToWriteMediocreLabCode.png)
 
+### 📁 Access Article Folders as they Appear
+
+* [Chapter 0: Avoiding Lab Code](./Chapter0_Avoiding_Lab_Code)
+  - *How to decide whether the problem at hand is best accomplished with code. Rhe lab principles for writing good SOP's and protocols that will inform your future coding endeavors. How I didn't code for an ordering white board instead (with basic coding concepts).
+  
+* TOC will be updated with new articles.
+  - *Coming Soon*
+
+---
+
 ## Acknowledgments
 
 Parts of this code were generated or assisted by OpenAI's ChatGPT (GPT-4), based on user prompts. All generated code was reviewed and modified for correctness and performance.
