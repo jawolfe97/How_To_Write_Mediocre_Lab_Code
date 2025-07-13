@@ -1,2 +1,17 @@
 # Chapter 0: Avoiding Lab Code
-![Thumbnail for the Project](https://github.com/jawolfe97/How_To_Write_Mediorcre_Lab_Code/blob/main/How_to_Write_Mediocre_Lab%20_Code.png)
+##Key Concepts
+* Why code anything in lab?
+* Lab Coding as An Extension of Good Record Keeping
+* How to write good SOPs and Experimental Protocols
+* 5 Times to Avoid Laboratory Code
+* Lab Coding Failed: The Time We Switched Back to a Whiteboard.
+  
+##Why code anything in lab?
+
+##Lab Coding as An Extension of Good Record Keeping
+
+##How to write good SOPs and Experimental Protocols
+
+##5 Times to Avoid Laboratory Code
+
+##Lab Coding Failed: The time we switched back to a whiteboard.
