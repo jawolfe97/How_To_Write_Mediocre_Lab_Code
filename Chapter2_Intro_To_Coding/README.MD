@@ -33,20 +33,20 @@ If you were a bit math-hesitant like I was growing up, great! The computer will 
 As is tradition, I will now give your first piece of code. This is typically only a line long. It's asking the computer to say "Hello World" back to you. [It's a fun piece of comp sci history you get to be a part of!](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
 
 ## 🌍 Hello World in 4 Languages
+Google Sheets
 ```excel
-#Google Sheets
 ="Hello, World!"
 ```
+RStudio
 ```R
-#RStudio
 print("Hello, World!")
 ```
+Python
 ```python
-#Python
 print("Hello, World!")
 ```
+C++
 ```cpp
-#C++
 #include <iostream>
 
 int main() {
@@ -54,6 +54,8 @@ int main() {
     return 0;
 }
 ```
+
+As you can see, there's always more than just typing in the phrase "Hello, World!." The text around the words is the code, our instructions to tell the computer to "Say the following:" What I find particularly striking is how much we can actually learn from the juxtaposition of the 4. First, as you are well aware, Google Sheets was built for visualizing spreadsheets and doing calculations. As such, it starts with an "=" and the fact that we're working with text and not numbers has to be denoted. Second, both Python and RStudio are so-called "Interpretable Languages." You can tell the computer to print out a word and the function that does it is "print." Excellent. This is intuitive. C++ wasn't designed to be intuitive or user-friendly. It was designed for speed. We talked about this before, but this is the key to picking your programming language. It has to be familiar to you and the code user to make sure your instructions are correct, but there may be lists of instructions that are so long and complex that making the computer translate out the "print" function back into computer speak and binary will preclude your ability to complete the list in a reasonable amount of time. 
 [Back to TOC](#topics)
 
 ## Data Types
