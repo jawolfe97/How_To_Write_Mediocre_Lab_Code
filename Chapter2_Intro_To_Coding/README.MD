@@ -46,7 +46,7 @@ print("Hello, World!")
 print("Hello, World!")
 ```
 ```cpp
-// 💻 C++
+#C++
 #include <iostream>
 
 int main() {
