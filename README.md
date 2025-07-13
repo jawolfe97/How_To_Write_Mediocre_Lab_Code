@@ -26,8 +26,8 @@ We will cover examples of logistical improvements in lab using the following "Co
 * Generall Command Line (Windows, Unix, and Linux)
 The above links are to online ways of running and editing code through your internet browser where available, and for downloading programs when possible.
 
+## Anticipated Scope
 This will likely change as time goes on and as I get feedback, but here is how I plan to organize the articles and I'll log the progress down below. 
-
 
 ## Acknowledgments
 
