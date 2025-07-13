@@ -1,6 +1,8 @@
 # How To Write Mediorcre Lab Code
 ![Thumbnail for the Project](https://github.com/jawolfe97/How_To_Write_Mediorcre_Lab_Code/blob/main/How_to_Write_Mediocre_Lab%20_Code.png)
 
+[Link to Table of Contents](https://github.com/jawolfe97/How_To_Write_Mediorcre_Lab_Code/tree/main#-access-article-folders-as-they-appear)
+
 Welcome to the this series of articles! I'll be working on this project continuiously and the goal here is in line with that of other introductory coding projects such as [Automate the Boring Stuff](https://automatetheboringstuff.com/), to address one fundamental problem: we're all busy in lab. 
 
 These days researchers are expected to be experts in data management, inventory, data analysis, numerical simulaiton, API query, high thoughput arithmatic calculation, experimental design, note taking, and many many more tasks. In the average biochemistry lab, there are a million things to do and the tasks are both varied and repetitive. Often lab automation allows for the generation of so many datasets in a single day that simple tasks like opening and closing files can transform into a tedious hours-long endeavor.
