@@ -23,7 +23,9 @@ Code is a list of instructions. There's a misconception that coding is all math 
 
 and not like this: 
 
-![Math, Gross](<p><a href="https://commons.wikimedia.org/wiki/File:Algebraic_equation_notation.svg#/media/File:Algebraic_equation_notation.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Algebraic_equation_notation.svg" alt="Algebraic equation notation.svg" height="516" width="883"></a><br>By <a href="https://en.wikipedia.org/wiki/User:Iantresman" class="extiw" title="wikipedia:User:Iantresman">Iantresman</a> at <a href="https://en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">English Wikipedia</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=25604857">Link</a></p>)
+<p><a href="https://commons.wikimedia.org/wiki/File:Algebraic_equation_notation.svg#/media/File:Algebraic_equation_notation.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Algebraic_equation_notation.svg" alt="Algebraic equation notation.svg" height="516" width="883"></a><br>By <a href="https://en.wikipedia.org/wiki/User:Iantresman" class="extiw" title="wikipedia:User:Iantresman">Iantresman</a> at <a href="https://en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">English Wikipedia</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=25604857">Link</a></p>
+
+If you were a bit math-hesitant like I was growing up, great! The computer will do it for you now. As a mater of fact, it can perform mathematical calculations at speeds unthinkable to the human brain. Beat the calculator? Only when a person is typing in the numbers. 
 
 [Back to TOC](#topics)
 
