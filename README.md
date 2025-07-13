@@ -29,9 +29,10 @@ We will cover examples of logistical improvements in lab using the following "Co
     -[Web Browser](https://www.onlinegdb.com/online_c++_compiler)
     -[Download](https://isocpp.org/get-started)
 * Generall Command Line
-      - Windows
-      - Unix
-      - Linux
+    - Windows
+    - Unix
+    - Linux
+
 The above links are to online ways of running and editing code through your internet browser where available, and for downloading programs when possible.
 
 ## Anticipated Scope
