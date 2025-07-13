@@ -33,14 +33,18 @@ If you were a bit math-hesitant like I was growing up, great! The computer will 
 As is tradition, I will now give your first piece of code. This is typically only a line long. It's asking the computer to say "Hello World" back to you. [It's a fun piece of comp sci history you get to be a part of!](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
 
 ## 🌍 Hello World in 4 Languages
-
 ```excel
-# 📄 Google Sheets (cell formula)
+#Google Sheets
 ="Hello, World!"
-# 🧮 R
+```
+```R
+#RStudio
 print("Hello, World!")
-# 🐍 Python
+```python
+#Python
 print("Hello, World!")
+```
+```cpp
 // 💻 C++
 #include <iostream>
 
@@ -48,7 +52,7 @@ int main() {
     std::cout << "Hello, World!" << std::endl;
     return 0;
 }
-
+```
 [Back to TOC](#topics)
 
 ## Data Types
