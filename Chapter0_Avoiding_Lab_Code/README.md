@@ -6,6 +6,7 @@
 * How to Write Good SOPs and Experimental Protocols
 * 5 Times to Avoid Laboratory Code
 * Lab Coding Failed: The Time We Switched Back to a Whiteboard.
+* Conclusions: TLDR
   
 ## Why code anything in lab?
 
@@ -16,3 +17,5 @@
 ## 5 Times to Avoid Laboratory Code
 
 ## Lab Coding Failed: The time we switched back to a whiteboard.
+
+##  Conclusions: TLDR
