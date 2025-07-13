@@ -42,7 +42,7 @@ This will likely change as time goes on and as I get feedback, but here is how I
 ### 📁 Access Article Folders as they Appear
 
 * [Chapter 0: Avoiding Lab Code](./Chapter0_Avoiding_Lab_Code)
-  - *How to decide whether the problem at hand is best accomplished with code. Rhe lab principles for writing good SOP's and protocols that will inform your future coding endeavors. How I didn't code for an ordering white board instead (with basic coding concepts).
+  - *How to decide whether the problem at hand is best accomplished with code. Rhe lab principles for writing good SOP's and protocols that will inform your future coding endeavors. How I didn't code for an ordering white board instead (with basic coding concepts).*
   
 * TOC will be updated with new articles.
   - *Coming Soon*
