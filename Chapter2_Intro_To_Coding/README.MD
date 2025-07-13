@@ -130,10 +130,28 @@ if(a < b & b < c){
 print("That was a funny joke")
 }
 ```
+And just because I want to emphasize again how not every coding language is equally user friendly, here's the same Boolean logic for the joke in C++. 
+C++
+```cpp
+#include <iostream>
 
-For the rest of this, well only be talking about R and Python because there's overlap there. 
+int main() {
+    // Define integers
+    int a = 7;
+    int b = 8;
+    int c = 9;
 
+    // Test Joke Logic
+    if (a < b && b < c) {
+        std::cout << "That was a funny joke" << std::endl;
+    }
 
+    return 0;
+}
+```
+Nothing funny about it.
+
+For the rest of this article section, we'll only be talking about R and Python. Future coding projects will be written in all 4. 
 
 [Back to TOC](#topics)
 
