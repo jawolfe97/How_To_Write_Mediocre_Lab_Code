@@ -1,4 +1,4 @@
-# Chapter 1: Planning New Code
+# Chapter 2: Intro to Coding
 [Back to Introduction](https://github.com/jawolfe97/How_To_Write_Mediorcre_Lab_Code/tree/main)
 
 ### Topics
