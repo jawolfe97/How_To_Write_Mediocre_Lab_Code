@@ -10,6 +10,7 @@ I was lucky to have taken two introductory coding for sicence major seminars and
 
 In this onging project, I want to give you some introductory tools from those classes and short-cuts from a PhD chemist about how to code in a way that will actually save you time. Hopefully this will help build up a code base and logistical toolkit for you to build your own code and write instructions that both people and computers can use to make your tasks much faster and help everyone get out of lab a little faster every day. 
 
+## Coding List
 We will cover examples of logistical improvements in lab using the following "Coding Languages," when applicable: 
 * Avoiding Coding Altogether (Phyiscal Systems)
 * Google Sheets, Basically Free Microsoft Excel with a Few Mising 
